@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CucumberMavenTest" />
+        <module name="TestBCC" />
       </profile>
     </annotationProcessing>
   </component>
