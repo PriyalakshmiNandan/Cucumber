@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 0.609 s <<< FAILURE! - in RunnerTest
+Launch BBC website & verify all Menu links are not broken(Verify the BBC HomePage Menu Options)  Time elapsed: 0.016 s  <<< ERROR!
+cucumber.runtime.junit.UndefinedThrowable: The step "User launches the BBC Website" is undefined
+
+Launch BBC website & verify all Menu links are not broken(Verify the BBC HomePage Menu Options)  Time elapsed: 0.016 s  <<< ERROR!
+cucumber.runtime.junit.UndefinedThrowable: The step "The WebPage has been loaded compeletly" is undefined
+
+Launch BBC website & verify all Menu links are not broken(Verify the BBC HomePage Menu Options)  Time elapsed: 0.016 s  <<< ERROR!
+cucumber.runtime.junit.UndefinedThrowable: The step "Verify whether all Main Menu links are not broken and is navigated to corresponding page or subsection" is undefined
+
+Launch BBC website & verify SubMenus in More Menu link(Verify the BBC HomePage Menu Options)  Time elapsed: 0 s  <<< ERROR!
+cucumber.runtime.junit.UndefinedThrowable: The step "User launches the BBC Website" is undefined
+
+Launch BBC website & verify SubMenus in More Menu link(Verify the BBC HomePage Menu Options)  Time elapsed: 0 s  <<< ERROR!
+cucumber.runtime.junit.UndefinedThrowable: The step "User have clicked on More Link" is undefined
+
+Launch BBC website & verify SubMenus in More Menu link(Verify the BBC HomePage Menu Options)  Time elapsed: 0 s  <<< ERROR!
+cucumber.runtime.junit.UndefinedThrowable: The step "Verify whether sub Menu links displayed are not broken" is undefined
+
